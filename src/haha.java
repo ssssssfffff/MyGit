@@ -3,5 +3,6 @@ public class haha {
 
         System.out.println("hahjkjgjjk");
         System.out.println("hhhhhh");
+        System.out.println("bbb");
     }
 }
